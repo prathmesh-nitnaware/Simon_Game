@@ -2,4 +2,4 @@
 
 Just a fun game made during learning Full Stack 
 
-Live Link: 
+Live Link: https://prathmesh-nitnaware.github.io/Simon_Game/
